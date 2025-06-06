@@ -3,7 +3,7 @@
 **Tony Hayes**  
 Building fast, stable, and scalable infrastructure @ wkav.cc · DevOps · SRE · Automation
 
-AWS | Kubernetes | Terraform | Automation | Observability  
+**AWS | Kubernetes | Terraform | Automation | Observability**
 
 📫 [tony@wkav.cc](mailto:tony@wkav.cc)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tony-hayes-880596)
