@@ -13,3 +13,6 @@ Enterprise cloud infrastructure and platform engineering. Specializing in Kubern
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-orchestration-blue?logo=kubernetes)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange?logo=argo)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![Istio](https://img.shields.io/badge/Istio-service%20mesh-blue?logo=istio)
+![Prometheus](https://img.shields.io/badge/Prometheus-monitoring-red?logo=prometheus)
+![Vault](https://img.shields.io/badge/Vault-secrets-black?logo=vault)
