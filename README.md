@@ -1,17 +1,15 @@
 # wkav.cc
+**Tony Hayes**
 
-**Tony Hayes**  
-Building fast, stable, and scalable infrastructure @ wkav.cc · DevOps · SRE · Automation
+Enterprise cloud infrastructure and platform engineering. Specializing in Kubernetes, multi-cloud architecture, and GitOps automation on AWS and GCP.
 
-**AWS | Kubernetes | Terraform | Automation | Observability**
+**Available for infrastructure projects.**
 
-📫 [tony@wkav.cc](mailto:tony@wkav.cc)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tony-hayes-880596)
+📧 [tony@wkav.cc](mailto:tony@wkav.cc) | 🔗 [LinkedIn](https://www.linkedin.com/in/tony-hayes-880596) | 🌐 [wkav.cc](https://wkav.cc)
 
 ---
-
 ![AWS](https://img.shields.io/badge/AWS-cloud-orange?logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-cloud-blue?logo=googlecloud)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-orchestration-blue?logo=kubernetes)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange?logo=argo)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
-![Automation](https://img.shields.io/badge/Automation-efficient-lightgrey)
-![Observability](https://img.shields.io/badge/Observability-metrics-yellow)
