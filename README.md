@@ -1,16 +1,16 @@
-## Hi there 👋
+# wkav.cc
 
-<!--
-**wkav/wkav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tony Hayes**  
+*Director of Cloud & DevOps • Site Reliability Leader*  
+AWS | Kubernetes | Terraform | Automation | Observability  
 
-Here are some ideas to get you started:
+📫 [tony@wkav.cc](mailto:tony@wkav.cc)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tony-hayes-880596)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![AWS](https://img.shields.io/badge/AWS-cloud-orange?logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-orchestration-blue?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![Automation](https://img.shields.io/badge/Automation-efficient-lightgrey)
+![Observability](https://img.shields.io/badge/Observability-metrics-yellow)
