@@ -1,8 +1,9 @@
 # wkav.cc
 
 **Tony Hayes**  
-*Director of Cloud & DevOps • Site Reliability Leader*  
-AWS | Kubernetes | Terraform | Automation | Observability  
+Building fast, stable, and scalable infrastructure @ wkav.cc · DevOps · SRE · Automation
+
+**Stack** AWS | Kubernetes | Terraform | Automation | Observability  
 
 📫 [tony@wkav.cc](mailto:tony@wkav.cc)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tony-hayes-880596)
